@@ -1,2 +1,2 @@
 # PF-Semester-project
-welcome to m ping pong game
+welcome to my ping pong game
